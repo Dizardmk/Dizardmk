@@ -34,5 +34,3 @@
 <img src="https://img.shields.io/badge/Nodejs-styding-0366d6">
 <img src="https://img.shields.io/badge/MongoDB-styding-0366d6">
 </span>
-  
----
