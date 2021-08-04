@@ -22,26 +22,26 @@
 #### My stack and tools
 
 <span>
-<img src="https://img.shields.io/badge/HTML5-0366d6">
-<img src="https://img.shields.io/badge/CSS3-0366d6">
-<img src="https://img.shields.io/badge/SASS-0366d6">
-<img src="https://img.shields.io/badge/BEM-0366d6">
-<img src="https://img.shields.io/badge/Javascript-0366d6">
-<img src="https://img.shields.io/badge/Rest API-0366d6">
-<img src="https://img.shields.io/badge/React-0366d6">
-<img src="https://img.shields.io/badge/React Hooks-0366d6">
-<img src="https://img.shields.io/badge/Redux-0366d6">
-<img src="https://img.shields.io/badge/Redux Persist-0366d6">
-<img src="https://img.shields.io/badge/Webpack-0366d6">
-<img src="https://img.shields.io/badge/Parcel-0366d6">
-<img src="https://img.shields.io/badge/Gulp-0366d6">
-<img src="https://img.shields.io/badge/npm-0366d6">
-<img src="https://img.shields.io/badge/yarn-0366d6">
-<img src="https://img.shields.io/badge/git-0366d6">
-<img src="https://img.shields.io/badge/Github-0366d6">
-<img src="https://img.shields.io/badge/Nodejs-0366d6">
-<img src="https://img.shields.io/badge/MongoDB-0366d6">
-<img src="https://img.shields.io/badge/Figma-0366d6">
-<img src="https://img.shields.io/badge/Netlify-0366d6">
-<img src="https://img.shields.io/badge/Heroku-0366d6">
+<img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=HTML5">
+<img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=CSS3">
+<img src="https://img.shields.io/badge/SASS-fff?style=for-the-badge&logo=Sass">
+<img src="https://img.shields.io/badge/BEM-fff?style=for-the-badge&logo=Y Combinator">
+<img src="https://img.shields.io/badge/Javascript-fff?style=for-the-badge&logo=JavaScript">
+<img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=React">
+<img src="https://img.shields.io/badge/React Hooks-fff?style=for-the-badge&logo=React">
+<img src="https://img.shields.io/badge/Redux-fff?style=for-the-badge&logo=Redux">
+<img src="https://img.shields.io/badge/Redux Persist-fff?style=for-the-badge&logo=Redux">
+<img src="https://img.shields.io/badge/Nodejs-fff?style=for-the-badge&logo=Node.js">
+<img src="https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&logo=MongoDB">
+<img src="https://img.shields.io/badge/Webpack-fff?style=for-the-badge&logo=Webpack">
+<img src="https://img.shields.io/badge/Parcel-fff?style=for-the-badge&logo=Webpack">
+<img src="https://img.shields.io/badge/Gulp-fff?style=for-the-badge&logo=gulp">
+<img src="https://img.shields.io/badge/npm-fff?style=for-the-badge&logo=npm">
+<img src="https://img.shields.io/badge/yarn-fff?style=for-the-badge&logo=Yarn">
+<img src="https://img.shields.io/badge/git-fff?style=for-the-badge&logo=Git">
+<img src="https://img.shields.io/badge/Github-fff?style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/badge/Figma-fff?style=for-the-badge&logo=Figma">
+<img src="https://img.shields.io/badge/Netlify-fff?style=for-the-badge&logo=Netlify">
+<img src="https://img.shields.io/badge/Heroku-fff?style=for-the-badge&logo=Heroku">
+<img src="https://img.shields.io/badge/Rest API-fff?style=for-the-badge">
 </span>
