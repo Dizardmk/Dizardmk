@@ -22,26 +22,26 @@
 #### My stack and tools
 
 <span>
-<img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=HTML5">
-<img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=CSS3">
-<img src="https://img.shields.io/badge/SASS-fff?style=for-the-badge&logo=Sass">
-<img src="https://img.shields.io/badge/BEM-fff?style=for-the-badge&logo=Y Combinator">
-<img src="https://img.shields.io/badge/Javascript-fff?style=for-the-badge&logo=JavaScript">
-<img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=React">
-<img src="https://img.shields.io/badge/React Hooks-fff?style=for-the-badge&logo=React">
-<img src="https://img.shields.io/badge/Redux-fff?style=for-the-badge&logo=Redux">
-<img src="https://img.shields.io/badge/Redux Persist-fff?style=for-the-badge&logo=Redux">
-<img src="https://img.shields.io/badge/Nodejs-fff?style=for-the-badge&logo=Node.js">
-<img src="https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&logo=MongoDB">
-<img src="https://img.shields.io/badge/Webpack-fff?style=for-the-badge&logo=Webpack">
-<img src="https://img.shields.io/badge/Parcel-fff?style=for-the-badge&logo=Webpack">
-<img src="https://img.shields.io/badge/Gulp-fff?style=for-the-badge&logo=gulp">
-<img src="https://img.shields.io/badge/npm-fff?style=for-the-badge&logo=npm">
-<img src="https://img.shields.io/badge/yarn-fff?style=for-the-badge&logo=Yarn">
-<img src="https://img.shields.io/badge/git-fff?style=for-the-badge&logo=Git">
-<img src="https://img.shields.io/badge/Github-fff?style=for-the-badge&logo=GitHub">
-<img src="https://img.shields.io/badge/Figma-fff?style=for-the-badge&logo=Figma">
-<img src="https://img.shields.io/badge/Netlify-fff?style=for-the-badge&logo=Netlify">
-<img src="https://img.shields.io/badge/Heroku-fff?style=for-the-badge&logo=Heroku">
-<img src="https://img.shields.io/badge/Rest API-fff?style=for-the-badge">
+<img src="https://img.shields.io/badge/HTML5-fafbfc?style=for-the-badge&logo=HTML5">
+<img src="https://img.shields.io/badge/CSS3-fafbfc?style=for-the-badge&logo=CSS3">
+<img src="https://img.shields.io/badge/SASS-fafbfc?style=for-the-badge&logo=Sass">
+<img src="https://img.shields.io/badge/BEM-fafbfc?style=for-the-badge&logo=Y Combinator">
+<img src="https://img.shields.io/badge/Javascript-fafbfc?style=for-the-badge&logo=JavaScript">
+<img src="https://img.shields.io/badge/React-fafbfc?style=for-the-badge&logo=React">
+<img src="https://img.shields.io/badge/React Hooks-fafbfc?style=for-the-badge&logo=React">
+<img src="https://img.shields.io/badge/Redux-fafbfc?style=for-the-badge&logo=Redux">
+<img src="https://img.shields.io/badge/Redux Persist-fafbfc?style=for-the-badge&logo=Redux">
+<img src="https://img.shields.io/badge/Nodejs-fafbfc?style=for-the-badge&logo=Node.js">
+<img src="https://img.shields.io/badge/MongoDB-fafbfc?style=for-the-badge&logo=MongoDB">
+<img src="https://img.shields.io/badge/Webpack-fafbfc?style=for-the-badge&logo=Webpack">
+<img src="https://img.shields.io/badge/Parcel-fafbfc?style=for-the-badge&logo=Webpack">
+<img src="https://img.shields.io/badge/Gulp-fafbfc?style=for-the-badge&logo=gulp">
+<img src="https://img.shields.io/badge/npm-fafbfc?style=for-the-badge&logo=npm">
+<img src="https://img.shields.io/badge/yarn-fafbfc?style=for-the-badge&logo=Yarn">
+<img src="https://img.shields.io/badge/git-fafbfc?style=for-the-badge&logo=Git">
+<img src="https://img.shields.io/badge/Github-fafbfc?style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/badge/Figma-fafbfc?style=for-the-badge&logo=Figma">
+<img src="https://img.shields.io/badge/Netlify-fafbfc?style=for-the-badge&logo=Netlify">
+<img src="https://img.shields.io/badge/Heroku-fafbfc?style=for-the-badge&logo=Heroku">
+<img src="https://img.shields.io/badge/Rest API-fafbfc?style=for-the-badge">
 </span>
