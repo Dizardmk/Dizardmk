@@ -5,22 +5,6 @@
   <a href="mailto:dizardmk@gmail.com">Email</a>
 </p>
 
-#### Projects
-
-* HTML5, CSS3, SASS - [WebStudio](https://dizardmk.github.io/goit-html-css)
-  * Adaptive website for WebStudio.
-* HTML5, CSS3, SASS - [HellEN](https://hellen-dizardmk.netlify.app)
-  * Adaptive website for English school | Team project, Developer - project fonts and styles, warranty, form and footer sections.
-* JavaScript - [Image-finder](https://dizardmk.github.io/goit-javascript)
-  * Website for displaying images by keyword using Pixabay API.
-* JavaScript - [Filmoteka](https://js-filmoteka-dizardmk.netlify.app)
-  * Adaptive website for displaying popular films, information about films and adding films to the queue/watched | Team project, Scrum Master, Developer - project markup, fonts and styles, tabs and localstorage.
-* React, Redux - [Phonebook](https://react-phonebook-dizardmk.netlify.app)
-  * Contact book, with registration/login and private/public routes.
-* React, Nodejs - [Wallet](https://wallet-dizardmk.netlify.app)
-  * Website for accounting finance | Team project, Scrum Master, Developer - took part in all aspects of development.
-
-
 #### My stack and tools
 
 <span>
