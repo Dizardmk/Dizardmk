@@ -11,8 +11,9 @@
 <img src="https://img.shields.io/badge/HTML5-1d1d1d?style=for-the-badge&logo=HTML5">
 <img src="https://img.shields.io/badge/CSS3-1d1d1d?style=for-the-badge&logo=CSS3">
 <img src="https://img.shields.io/badge/SASS-1d1d1d?style=for-the-badge&logo=Sass">
-<img src="https://img.shields.io/badge/Tailwindcss-1d1d1d?style=for-the-badge&logo=Tailwindcss">
 <img src="https://img.shields.io/badge/BEM-1d1d1d?style=for-the-badge&logo=Y Combinator">
+<img src="https://img.shields.io/badge/Nunjucks-1d1d1d?style=for-the-badge&logo=Mozilla">
+<img src="https://img.shields.io/badge/Tailwindcss-1d1d1d?style=for-the-badge&logo=Tailwindcss">
 <img src="https://img.shields.io/badge/Javascript-1d1d1d?style=for-the-badge&logo=JavaScript">
 <img src="https://img.shields.io/badge/React-1d1d1d?style=for-the-badge&logo=React">
 <img src="https://img.shields.io/badge/React Hooks-1d1d1d?style=for-the-badge&logo=React">
