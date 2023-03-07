@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there, I'm Kirill</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kirill-miklashevich/">Linkedin</a> •
+  <a href="https://www.linkedin.com/in/kyryllo-miklashevych/">Linkedin</a> •
   <a href="https://t.me/dizardmk">Telegram</a> •
   <a href="mailto:dizardmk@gmail.com">Email</a>
 </p>
