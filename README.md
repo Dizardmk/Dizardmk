@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Tailwindcss-1f2328?style=for-the-badge&logo=tailwindcss">
 <br><br>
 <img src="https://img.shields.io/badge/Javascript-1f2328?style=for-the-badge&logo=JavaScript">
+<img src="https://img.shields.io/badge/Typescript-1f2328?style=for-the-badge&logo=typescript">
 <img src="https://img.shields.io/badge/React-1f2328?style=for-the-badge&logo=React">
 <img src="https://img.shields.io/badge/React Hooks-1f2328?style=for-the-badge&logo=React">
 <img src="https://img.shields.io/badge/Nextjs-1f2328?style=for-the-badge&logo=Next.js">
