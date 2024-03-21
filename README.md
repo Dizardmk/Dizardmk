@@ -12,11 +12,11 @@
 <!-- stack and tools list -->
 <!-- other icons for badge logo: https://simpleicons.org/ -->
 <span>
-<img src="https://img.shields.io/badge/HTML5-1f2328?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/HTML-1f2328?style=for-the-badge&logo=html5">
 <img src="https://img.shields.io/badge/Nunjucks-1f2328?style=for-the-badge&logo=nunjucks">
 <img src="https://img.shields.io/badge/Handlebars-1f2328?style=for-the-badge&logo=handlebarsdotjs">
 <br><br>
-<img src="https://img.shields.io/badge/CSS3-1f2328?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/CSS-1f2328?style=for-the-badge&logo=css3">
 <img src="https://img.shields.io/badge/SASS-1f2328?style=for-the-badge&logo=sass">
 <img src="https://img.shields.io/badge/CSS Modules-1f2328?style=for-the-badge&logo=cssmodules">
 <img src="https://img.shields.io/badge/styled components-1f2328?style=for-the-badge&logo=styledcomponents">
