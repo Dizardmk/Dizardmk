@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Handlebars-1f2328?style=for-the-badge&logo=handlebarsdotjs">
   <br><br>
   <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS-1f2328?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/CSS-1f2328?style=for-the-badge&logo=css">
   <img src="https://img.shields.io/badge/Tailwindcss-1f2328?style=for-the-badge&logo=tailwindcss">
   <img src="https://img.shields.io/badge/CSS Modules-1f2328?style=for-the-badge&logo=cssmodules">
   <img src="https://img.shields.io/badge/SASS-1f2328?style=for-the-badge&logo=sass">
@@ -55,7 +55,9 @@
   <!-- SOFTWARE -->
   <img src="https://img.shields.io/badge/git-1f2328?style=for-the-badge&logo=Git">
   <img src="https://img.shields.io/badge/Figma-1f2328?style=for-the-badge&logo=Figma">
+  <br><br>
+  <!-- AI -->
   <img src="https://img.shields.io/badge/GitHub Copilot-1f2328?style=for-the-badge&logo=githubcopilot">
-  <img src="https://img.shields.io/badge/Claude Code-1f2328?style=for-the-badge&logo=claude">
+  <img src="https://img.shields.io/badge/Anthropic Claude-1f2328?style=for-the-badge&logo=claude">
   <img src="https://img.shields.io/badge/OpenAI GPT-1f2328?style=for-the-badge&logo=openai">
 </div>
