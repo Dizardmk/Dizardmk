@@ -54,9 +54,9 @@
   <img src="https://img.shields.io/badge/Figma-2A313C?labelColor=FFFFFF&style=for-the-badge&logo=Figma&logoColor=F24E1E">
   <br><br>
   <!-- AI -->
-  <img src="https://img.shields.io/badge/GitHub_Copilot-2A313C?labelColor=FFFFFF&style=for-the-badge&logo=githubcopilot&logoColor=000000">
-  <img src="https://img.shields.io/badge/cursor_composer-2A313C?labelColor=FFFFFF&style=for-the-badge&logo=cursor&logoColor=000000">
+  <img src="https://img.shields.io/badge/Google_Gemini-2A313C?labelColor=FFFFFF&style=for-the-badge&logo=googlegemini&logoColor=8E75B2">
   <img src="https://img.shields.io/badge/OpenAI_ChatGPT-2A313C?style=for-the-badge">
   <img src="https://img.shields.io/badge/Anthropic_Claude-2A313C?labelColor=FFFFFF&style=for-the-badge&logo=claude&logoColor=D97757">
-  <img src="https://img.shields.io/badge/Google_Gemini-2A313C?labelColor=FFFFFF&style=for-the-badge&logo=googlegemini&logoColor=8E75B2">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-2A313C?labelColor=FFFFFF&style=for-the-badge&logo=githubcopilot&logoColor=000000">
+  <img src="https://img.shields.io/badge/cursor-2A313C?labelColor=FFFFFF&style=for-the-badge&logo=cursor&logoColor=000000">
 </div>
