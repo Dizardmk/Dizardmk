@@ -50,7 +50,6 @@
   <br><br>
   <!-- SOFTWARE -->
   <img src="https://img.shields.io/badge/git-2A313C?labelColor=FFFFFF&style=for-the-badge&logo=git&logoColor=F05032">
-  <img src="https://img.shields.io/badge/cursor-2A313C?labelColor=FFFFFF&style=for-the-badge&logo=cursor&logoColor=000000">
   <img src="https://img.shields.io/badge/Figma-2A313C?labelColor=FFFFFF&style=for-the-badge&logo=Figma&logoColor=F24E1E">
   <br><br>
   <!-- AI -->
